@@ -1,0 +1,5 @@
+System.out.println("Introduce cantidad de números: ");
+Scanner sc = new Scanner(System.in);
+int numNumeros = Integer.parseInt(sc.nextLine());
+
+System.out.println("Has introducido: " + numNumeros);
