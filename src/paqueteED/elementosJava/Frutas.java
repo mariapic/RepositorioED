@@ -4,7 +4,7 @@ package paqueteED.elementosJava;
  * La clase Fruta es una clase patrón
  * no va a tener método main
  * tendrá 4 atributos o características
- * @author Pilar y Javier 
+ * @author Pilar y el resto
  * @version 1.0
  *
  */
