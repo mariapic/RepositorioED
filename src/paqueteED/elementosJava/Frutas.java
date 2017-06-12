@@ -9,7 +9,7 @@ package paqueteED.elementosJava;
  *
  */
 
-//Esto es una prueba de git.
+//Esto es una prueba de git
 public class Frutas {
 	private String name;
 	private String color;
