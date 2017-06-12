@@ -8,6 +8,8 @@ package paqueteED.elementosJava;
  * @version 1.0
  *
  */
+
+// Esto es una prueba de git.
 public class Frutas {
 	private String name;
 	private String color;
